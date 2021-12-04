@@ -1,0 +1,84 @@
+3-12-2021 15:37:42 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:37:46 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 15:39:59 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php// | Referer: no referer
+
+3-12-2021 15:40:00 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php//?as=json | Referer: http://localhost/xampp/gojek-waf/example.php//
+
+3-12-2021 15:40:15 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php// | Referer: no referer
+
+3-12-2021 15:40:16 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php//?as=json | Referer: http://localhost/xampp/gojek-waf/example.php//
+
+3-12-2021 15:46:19 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php// | Referer: no referer
+
+3-12-2021 15:46:20 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php//?as=json | Referer: http://localhost/xampp/gojek-waf/example.php//
+
+3-12-2021 15:46:26 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:46:27 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 15:46:46 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:46:47 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 15:47:23 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:47:24 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 15:53:41 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:53:42 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 15:54:21 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:54:22 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 15:55:08 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:55:09 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 15:59:55 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd= | Referer: no referer
+
+3-12-2021 15:59:56 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/cmd=?as=json | Referer: http://localhost/xampp/gojek-waf/example.php/cmd=
+
+3-12-2021 16:07:18 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?url=2 | Referer: no referer
+
+3-12-2021 16:07:20 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?url=2&as=json | Referer: http://localhost/xampp/gojek-waf/example.php?url=2
+
+3-12-2021 16:27:04 | XSS attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php/ | Referer: no referer
+
+3-12-2021 16:30:30 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?q=cmd | Referer: no referer
+
+3-12-2021 16:37:56 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?q=admin | Referer: no referer
+
+4-12-2021 03:00:30 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?q=select%20*%20from | Referer: no referer
+
+4-12-2021 03:00:31 | Union attack | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?q=select+*+from&as=json | Referer: http://localhost/xampp/gojek-waf/example.php?q=select%20*%20from
+
+4-12-2021 03:02:53 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?id=1%27%20union%20select%201,2,3%20from%20admin | Referer: no referer
+
+4-12-2021 03:02:54 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/example.php?id=1%27+union+select+1%2C2%2C3+from+admin&as=json | Referer: http://localhost/xampp/gojek-waf/example.php?id=1%27%20union%20select%201,2,3%20from%20admin
+
+4-12-2021 03:49:42 | GET protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php?q=script | Referer: no referer
+
+4-12-2021 04:39:13 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php?q=cmd | Referer: no referer
+
+4-12-2021 06:23:07 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php?q=cmd | Referer: no referer
+
+4-12-2021 16:47:53 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php?q=cmd | Referer: no referer
+
+4-12-2021 16:53:31 | URL protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php?q=cmd | Referer: no referer
+
+4-12-2021 18:35:21 | POST protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php | Referer: http://localhost/xampp/gojek-waf/index.php
+
+4-12-2021 18:38:10 | POST protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php | Referer: http://localhost/xampp/gojek-waf/index.php
+
+4-12-2021 18:40:04 | POST protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/index.php | Referer: http://localhost/xampp/gojek-waf/index.php
+
+4-12-2021 09:52:19 | GET protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/search.php?q=%3Cimg+src%3Dx+onerror%3Dalert%28document.domain%29%3E | Referer: http://localhost/xampp/gojek-waf/index.php
+
+4-12-2021 10:30:27 | GET protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/search.php?q=%3Cscript%3E+alert%2823%29+%3C%2Fscript%3E | Referer: http://localhost/xampp/gojek-waf/index.php
+
+4-12-2021 10:30:28 | GET protect | IP: ::1 | DNS: user | Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 | URL: /xampp/gojek-waf/search.php?q=%3Cscript%3E+alert%2823%29+%3C%2Fscript%3E&as=json | Referer: http://localhost/xampp/gojek-waf/search.php?q=%3Cscript%3E+alert%2823%29+%3C%2Fscript%3E
+
