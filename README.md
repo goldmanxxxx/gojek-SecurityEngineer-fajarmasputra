@@ -16,13 +16,18 @@ Installation:
    Add the Telegram BOT to the group. Get the list of updates for your BOT: https://api.telegram.org/bot<YourBOTToken>/getUpdates
     Example:
     https://api.telegram.org/bot123456789:jbd78sadvbdy63d37gda37bd8/getUpdates
-    Look for the "chat" object:
-
-{"update_id":8393,"message":{"message_id":3,"from":{"id":7474,"first_name":"AAA"},"chat":{"id":<group_ID>,"title":""},"date":25497,"new_chat_participant":{"id":71,"first_name":"NAME","username":"YOUR_BOT_NAME"}}}
+    Look for the "chat" object: {"update_id":8393,"message":{"message_id":3,"from":{"id":7474,"first_name":"AAA"},"chat":{"id" <group_ID>,"title":""},"date":25497,"new_chat_participant":{"id":71,"first_name":"NAME","username":"YOUR_BOT_NAME"}}}
     This is a sample of the response when you add your BOT into a group. Use the "id" of the "chat" object to send your messages.
- 5. After you are ready for it. You can start WebService and Database Service (Start Apache and MySQL):
+5. After you are ready for it. You can start WebService and Database Service (Start Apache and MySQL):
  ![image](https://user-images.githubusercontent.com/22582193/144706374-e29b8b44-b8e7-4557-9b87-1b9719a2f9cb.png)
+6. Access your site from browser localhost/xampp/<name ur folder>. And here the main page:
+   ![image](https://user-images.githubusercontent.com/22582193/144706461-fbc93a21-2717-4297-aef9-7434d9e07c2d.png)
+7. After it you can start explore the Website. There are some bug that you can exploits. And all of the alert will send to Telegram like this:
+   ![WhatsApp Image 2021-12-04 at 17 38 55](https://user-images.githubusercontent.com/22582193/144706522-bc759cd3-dd7e-4449-8ddf-cc5945c0b6f3.jpeg)![WhatsApp Image 2021-12-04 at 17 38 56](https://user-images.githubusercontent.com/22582193/144706529-b18a4bea-0300-48e6-a19e-4c7948cb521f.jpeg)g
+8. Bug: login ByPass with SQL Injection, Cross Site Scripting using Search Query, Cross Site Scripting URL
+  
 
-
+   
+ 
 
 
