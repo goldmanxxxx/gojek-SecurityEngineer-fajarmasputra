@@ -1,7 +1,7 @@
 <?php
 
-define('BOT_TOKEN', '5046315551:AAHacM7T4PQImM_t1qZyfzp0hP0ImEi7IeA');
-define('CHAT_ID','582791660');
+define('BOT_TOKEN', 'PUT YOUR TOKEN HERE');
+define('CHAT_ID','PUT YOUR CHAT ID HERE');
 date_default_timezone_set('Australia/Melbourne');
 $query_string=strval(getenv('QUERY_STRING'));
 $http_user_agent=strval(getenv('HTTP_USER_AGENT'));

@@ -3,8 +3,8 @@
 class SimpleWAF {
 	var $log_file = "logs";
 	var $telegram_notice = true;
-	var $telegram_api = "5046315551:AAHacM7T4PQImM_t1qZyfzp0hP0ImEi7IeA";
-	var $telegram_chatid = "582791660";
+	var $telegram_api = "'PUT YOUR TOKEN HERE'";
+	var $telegram_chatid = 'PUT YOUR CHAT ID HERE';
 	var $protect_unset_global = true;
 	var $protect_range_ip_deny = false;
 	var $protect_range_ip_spam = false;
